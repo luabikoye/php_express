@@ -1,14 +1,50 @@
-Below are the information that was submitted on the website
-Firstname: Ahmed 
-Lastname: Bado
-Email: oabikay@yahoo.com
-Phone: 07042629011
-Address: 19 oni street surulere
 
-Below are the information that was submitted on the website
-Firstname: Tobe
-Lastname: Ebube
-Email: tobs@yahoo.com
-Phone: 07042629011
-Address: 19 oni street surulere
 
+************************
+New registration 
+************************
+Firstname: David
+Lastname: Onyema
+Email: daveonye@gmsil.com
+Phone: 3055553890
+Address: 20 Okota riad
+
+
+************************
+New registration 
+************************
+Firstname: David
+Lastname: Onyema
+Email: daveonye@gmsil.com
+Phone: 3055553890
+Address: 20 Okota riad
+
+
+************************
+New registration 
+************************
+Firstname: Olumide
+Lastname: Abikoye
+Email: domains@aledoy.com
+Phone: 08023443581
+Address: 51 Okota Road, Isolo Lagos
+
+
+************************
+New registration 
+************************
+Firstname: Olumide
+Lastname: Abikoye
+Email: domains@aledoy.com
+Phone: 08023443581
+Address: 51 Okota Road, Isolo Lagos
+
+
+************************
+New registration 
+************************
+Firstname: Olumide
+Lastname: Abikoye
+Email: domains@aledoy.com
+Phone: 08023443581
+Address: 51 Okota Road, Isolo Lagos
