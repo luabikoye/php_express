@@ -11,7 +11,7 @@
 
    </div>
    <div class="container">
-        <div><img src="images/banner1.jpg" class="banner"></div>
+        <div><h1>Thank <?php echo $firstname; ?></h1></div>
    </div>
 
 
@@ -26,7 +26,7 @@
 
    </div>
 
-   <div class="container">
+  <div class="container">
     <?php include('inc/footer.inc'); ?>
 
    </div>

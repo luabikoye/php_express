@@ -5,13 +5,14 @@
     <link rel="stylesheet" href="style.css"></link>
 </head>
 <body>
-<?php include('inc/header.inc'); ?>
+
+   <?php include('inc/header.inc'); ?>
 
    <div class="clear">
 
    </div>
    <div class="container">
-        <div><img src="images/banner1.jpg" class="banner"></div>
+        <div><h1>About Us</h1></div>
    </div>
 
 

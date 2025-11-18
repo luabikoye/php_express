@@ -6,6 +6,42 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $address = $_POST['address'];
 
+$phone_len = strlen($phone);
+
+
+if(!$firstname)
+{
+    $error ='Please enter firstname';
+   include('register.php');
+   exit;
+}
+
+
+if(!$lastname)
+{
+    
+    $error ='please enter lastname';
+   include('register.php');
+   exit;
+}
+
+if(!$phone)
+{
+    
+    $error ='Enter a valid phone number';
+   include('register.php');
+   exit;
+}
+
+if($phone_len != 11)
+{
+    
+    $error ='Incorrect mobile number entered';
+   include('register.php');
+   exit;
+}
+
+
 $content =  "\n\n************************\n"
             .'New registration '."\n"
             ."************************\n"
@@ -20,11 +56,7 @@ $file = fopen('data.txt','a');
 fwrite($file,$content);
 fclose($file);
 
+include('thankyou.php');
 
-echo "<h2>Welcome $firstname!</h2>";
-
-echo '<br>';
-
-echo 'Your application has been received.';
 
 ?>
