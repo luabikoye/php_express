@@ -15,10 +15,9 @@
    </div>
 
 
-   <div class="container">
+   <div class="container-fluid">
         <div class="content_area">
-            eslrhgoiwehrg
-            wergoiwherpogiwer
+<p>No To Arainism</p>
         </div>
    </div>
 
