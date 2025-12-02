@@ -12,7 +12,7 @@
 
    </div>
    <div class="container">
-        <div><h1>About Us</h1></div>
+        <div><h1>Who we are</h1></div>
    </div>
 
 
